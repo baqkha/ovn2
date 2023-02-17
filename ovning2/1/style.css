@@ -1,0 +1,19 @@
+#Rubrik {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Beskrivning {
+    font-size: 20px;
+}

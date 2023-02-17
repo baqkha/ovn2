@@ -1,0 +1,81 @@
+.kop-plus {
+    color: black;
+    font-weight: bold;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    white-space: nowrap;
+    margin-right: 4px;
+    margin-left: 400px;
+    font-size: 11px;
+    background-color: rgb(255,255,24);
+    border-radius: 28px;
+    height: 28px;
+    min-height: 28px;
+    width: auto;
+
+}
+
+.plus {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 15px;
+}
+
+.berward {
+    margin: 0;
+    margin-top: 200px;
+    font-size: 14px;
+    font-family: Arial,Helvetica,Verdana,Geneva,sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    line-height: 1.28;
+    color: #dd2a30;
+    color: #dd2a30;
+    overflow-wrap: break-word;
+}
+
+.title {
+    font-size: calc(-45px + 4.75rem);
+    overflow-wrap: break-word;
+    font-weight: bold;
+    letter-spacing: -2px;
+    line-height: calc(-46px + 5rem);
+}
+
+.subtitle {
+    font-size: calc(14px + 0.5rem);
+    line-height: calc(21px + 0.25rem);
+    overflow-wrap: break-word;
+    margin-bottom: calc(-24px + 2rem);
+}
+
+.av {
+    font-weight: bold;;
+}
+
+.image-caption {
+    font-size: 14px;
+    line-height: 16px;
+    overflow-wrap: break-word;
+    font-family: var(--image_image-info-font, var(--ff-chrome));
+    color: var(--image_image-info-color, var(--c-neutral-06));
+}
+
+.foto-av {
+    overflow-wrap: break-word;
+    color: var(--image_image-byline-color, var(--c-neutral-05));
+    margin-bottom: 0px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.teater {
+    font-size: 14px;
+    font-family: Arial,Helvetica,Verdana,Geneva,sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #dd2a30;
+    color: #dd2a30;
+    overflow-wrap: break-word;
+}

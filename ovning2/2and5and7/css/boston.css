@@ -1,0 +1,20 @@
+header {
+    background-color: #27a732;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+#learn-text {
+    font-size: 24px;
+}
+
+.container {
+    max-width: 1800px;
+    margin: 0 auto;
+    word-wrap: break-word;
+}
+.container img {
+    width: 500px;
+    height: auto;
+    margin: 30px;
+}

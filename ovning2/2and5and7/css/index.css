@@ -1,0 +1,108 @@
+/* button {
+    border-radius: 12px;
+    font-size: larger;
+    padding: 10px 10px;
+    width: 200px;
+    height: 40px;
+    background-color: #fff;
+    margin-left: 300px;
+    text-align: center;
+    border-color: #000000;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+ */
+.container {
+    position: relative;
+    width: 50%;
+}
+
+#learn-text {
+    font-size: 24px;
+}
+
+.container img {
+    width: 250px;
+    height: auto;
+    margin: 30px;
+}
+
+.container .golden-btn {
+    position: absolute;
+    top: 80%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #27a732;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+.container .golden-btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.container .boston {
+    position: absolute;
+    top: 80%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #27a732;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+.container .boston:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.container .poodles {
+    position: absolute;
+    top: 80%;
+    left: 83%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #27a732;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+.container .poodles:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+a {color: inherit;}
+
+
+header {
+    background-color: #27a732;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+
+
+#Hundar {
+    margin-left: 50px;
+}
+
+#beskrivning {
+    margin-left: 50px;
+    font-size: 18px;
+}
+
